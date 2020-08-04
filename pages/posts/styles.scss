@@ -1,0 +1,12 @@
+$font-size: 50px;
+.example {
+  font-size: $font-size;
+}
+
+div {
+  color: red;
+  a  {
+    text-decoration: none;
+    color: black;
+  }
+}
